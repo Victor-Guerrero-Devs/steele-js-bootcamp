@@ -19,6 +19,8 @@ object.
 
 ### Bad
 
-`printToConsole() {`
-`console.log(this)`
-`}`
+```
+printToConsole() {
+  console.log(this)
+}
+```
